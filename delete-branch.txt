@@ -1,0 +1,10 @@
+Git Delete a branch
+
+1. Delete a local branch:
+git branch -d the_local_branch
+
+2. To remove a remote branch (if you know what you are doing!)
+git push origin :the_remote_branch
+
+
+
